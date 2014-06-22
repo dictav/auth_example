@@ -1,0 +1,17 @@
+Style/LeadingCommentSpace:
+  Enabled: false
+      
+Style/HashSyntax:
+  Enabled: false
+
+Style/NumericLiterals:
+  MinDigits: 100
+      
+Style/SingleSpaceBeforeFirstArg:
+  Enabled: false
+
+Lint/AssignmentInCondition:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
